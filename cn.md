@@ -1,6 +1,6 @@
 # v2board 主题开发定制  
 
-> [English](https://github.com/EuropeForest/V2Board-theme/README.md) 中文
+> [English](https://github.com/EuropeForest/V2Board-theme/blob/master/README.md) 中文
 
 ### 关于我们
 

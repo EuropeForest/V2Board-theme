@@ -1,6 +1,6 @@
 # v2board Theme Custom Development
 
-> English [中文](https://github.com/EuropeForest/V2Board-theme/cn.md)
+> English [中文](https://github.com/EuropeForest/V2Board-theme/blob/master/cn.md)
 
 ### About Us
 
